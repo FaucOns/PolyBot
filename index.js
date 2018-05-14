@@ -81,4 +81,4 @@ client.on("guildCreate", guild => {
       }
     });
 
-    client.login('NDQzODk1OTcyNzg4MDQzNzc3.DdpT-g.ctN8RuCQMsrARfkdXGWvc0OBehE');
+process.env.TOKEN
